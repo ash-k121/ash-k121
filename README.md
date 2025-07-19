@@ -1,51 +1,55 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=B57EDC&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Ashmeet+Kaur;ML+Engineer+%7C+AI+Explorer;Code.+Train.+Deploy." />
-</h1>
+# Ashmeet Kaur
 
-<h3 align="center">🚀 Turning ideas into impactful AI-driven solutions</h3>
+###  Navigating the crossroads of AI, Software, and Systems
+---
+- Hi, I'm Ashmeet.  
+I believe in giving bold, sometimes delusional ideas the structure they need to become real.  
+I'm drawn to problems that don’t have clear answers and enjoy building things that challenge the norm.  
+---
 
+###  What I've Explored
 
+- **Machine Learning & Deep Learning**:  
+  Built and deployed models for real-time translation, human activity recognition, and license plate recognition.  
+  Worked with frameworks like TensorFlow, PyTorch, and Hugging Face.
 
-<p align="center">
-  🌱 Deep-diving into <b>Deep Learning</b> and leveling up my <b>Model Optimization</b> chops <br><br>
-  💬 Always up to chat about <b>AI/ML</b>, <b>Neural Nets</b>, or <b>Research Projects</b> <br><br>
-  🔭 Obsessed with clean code, interpretable models, and deploying things that actually work
-</p>
+- **Web & App Development**:  
+  Developed full-stack apps using React, Node.js, MongoDB, and Flask.  
+  Integrated real-time communication with WebRTC and sockets.
 
-<p align="center">
-  <a href="mailto:ashintern121@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ashmeet-kaur-3a2093252/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+- **AIoT & Embedded Systems**:  
+  Created wearable safety devices integrating sensor data and ML inference using STM32 platforms.
 
 ---
 
-<h2 align="center">🧠 AI/ML Tech Stack</h2>
+###  What I'm Currently Exploring
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-
+- **Distributed Systems**  
+- **System Design & Scalability**  
+- **Model Optimization & Deployment at Scale**
 
 ---
 
+###  Tech Stack
 
+**Languages**: Python, JavaScript, C++, HTML/CSS  
+**Frameworks**: PyTorch, TensorFlow, React, Node.js, Flask  
+**Tools**: Docker, GitHub Actions, SonarQube, MongoDB
 
+---
 
-<h2 align="center">📈 GitHub Stats</h2>
+###  Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ash-k121&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ash-k121&theme=tokyonight&hide_border=true" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashmeet-kaur-3a2093252/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashintern121@gmail.com)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash-k121&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+---
 
+### 📊 GitHub Stats
 
+![Ashmeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ash-k121&show_icons=true&theme=radical&hide_rank=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ash-k121&layout=compact&theme=radical)
+
+---
 
