@@ -1,13 +1,16 @@
 # Ashmeet Kaur
 
-###  Navigating the crossroads of AI, Software, and Systems
----
-- Hi, I'm Ashmeet.  
-I believe in giving bold, sometimes delusional ideas the structure they need to become real.  
-I'm drawn to problems that don’t have clear answers and enjoy building things that challenge the norm.  
+### Navigating the crossroads of AI, Software, and Systems
+
 ---
 
-###  What I've Explored
+- Hi, I'm Ashmeet.  
+  I believe in giving bold, sometimes delusional ideas the structure they need to become real.  
+  I'm drawn to problems that don’t have clear answers and enjoy building things that challenge the norm.
+
+---
+
+### What I've Explored
 
 - **Machine Learning & Deep Learning**:  
   Built and deployed models for real-time translation, human activity recognition, and license plate recognition.  
@@ -22,7 +25,7 @@ I'm drawn to problems that don’t have clear answers and enjoy building things 
 
 ---
 
-###  What I'm Currently Exploring
+### What I'm Currently Exploring
 
 - **Distributed Systems**  
 - **System Design & Scalability**  
@@ -30,7 +33,7 @@ I'm drawn to problems that don’t have clear answers and enjoy building things 
 
 ---
 
-###  Tech Stack
+### Tech Stack
 
 **Languages**: Python, JavaScript, C++, HTML/CSS  
 **Frameworks**: PyTorch, TensorFlow, React, Node.js, Flask  
@@ -38,7 +41,7 @@ I'm drawn to problems that don’t have clear answers and enjoy building things 
 
 ---
 
-###  Let's Connect
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashmeet-kaur-3a2093252/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashintern121@gmail.com)
@@ -47,9 +50,21 @@ I'm drawn to problems that don’t have clear answers and enjoy building things 
 
 ### 📊 GitHub Stats
 
-![Ashmeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ash-k121&show_icons=true&theme=radical&hide_rank=true)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ash-k121&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ash-k121&layout=compact&theme=radical" height="165"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ash-k121&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ash-k121&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ash-k121&theme=react-dark&height=220"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ash-k121&color=blueviolet"/>
+</p>
 
 ---
-
