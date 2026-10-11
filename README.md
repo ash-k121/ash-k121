@@ -1,8 +1,5 @@
 # Ashmeet Kaur
 
-### Navigating the crossroads of AI, Software, and Systems
-
----
 
 - Hi, I'm Ashmeet.  
   I believe in giving bold, sometimes delusional ideas the structure they need to become real.  
